@@ -1,0 +1,25 @@
+.container{
+
+    display: flex;
+    justify-content: flex-end;
+    padding: .5rem;
+}
+
+.btn{
+
+background-color: #fb8500;
+color: white;
+padding-left: .9rem;
+padding-right: .9rem;
+margin: 0;
+transition: .5s;
+}
+
+.btn:hover{
+
+color: #fb8500;
+background-color: white;
+box-shadow: 0 0 1rem;
+
+}
+

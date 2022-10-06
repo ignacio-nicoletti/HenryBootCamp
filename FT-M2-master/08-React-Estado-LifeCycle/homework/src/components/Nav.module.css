@@ -1,0 +1,14 @@
+.logoHenry {
+  margin-right: 20px;
+}
+
+.nav{
+display: flex;
+justify-content: space-between; 
+background-color: gray ;
+}
+
+.search{
+color: green;
+border-color:green;
+}
